@@ -1,6 +1,6 @@
 tony_*
 .env
-
+*.env
 # cpp extensions
 *.exe
 *.ilk

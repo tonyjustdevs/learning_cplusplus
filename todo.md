@@ -1,6 +1,0 @@
-- [ ] create task list in gh for this task list
-- [ ] create hellworld branch
-- [ ] git commit and add remote repo
-- [ ] create helloworld project
-- [ ] push to hl-branch
-- [ ] pull request, pull to main
