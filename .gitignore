@@ -1,2 +1,8 @@
 tony_*
 .env
+
+# cpp extensions
+*.exe
+*.ilk
+*.obj
+*.pdb
